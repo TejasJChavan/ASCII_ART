@@ -1,6 +1,6 @@
 from PIL import Image
 
-file_name = "paddu.jpg"
+file_name = "" #Enter your file name here (stored in the same directory as project.py
 
 with Image.open("chars.png") as img:
     size = 26.389473684210526315789473684211
